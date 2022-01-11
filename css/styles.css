@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    cursor:crosshair;
+background-color: hsl(330, 83%, 49%);
+}
+img {
+    border-radius: 20px;
+    border-color: rgb(146, 30, 175);
+    border-width: 5px;
+    border-style: ridge;
+}
+h1,h2{
+    text-align: center;
+}
